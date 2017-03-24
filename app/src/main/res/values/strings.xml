@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Codey</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="run">Run</string>
+    <string name="Intro1">Welcome! My name is Codey.</string>
+    <string name="Intro2">My job is to introduce you to the world of Java programming.</string>
+    <string name="Intro3">So let\'s get acquainted, please tell me your name?</string>
+    <string name="Default">Type Here</string>
+    <string name="Run">Run Code</string>
+    <string name="FirstLineCode1.1">String name =</string>
+    <string name="Quotes">\"</string>
+    <string name="Colon">;</string>
+    <string name="SecondLineCode1.2">System.out.print(\"Hey, \" + name);</string>
+    <string name="survey">https://www.surveymonkey.co.uk/r/FW9M6CJ</string>
+</resources>
